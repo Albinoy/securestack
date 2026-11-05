@@ -1,0 +1,16 @@
+securestack/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   └── templates/
+│
+├── tests/
+│   └── test_app.py
+│
+├── docs/
+│   └── requirements.md
+│
+├── .gitignore
+├── requirements.txt
+└── README.md
